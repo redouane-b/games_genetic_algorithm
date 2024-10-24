@@ -57,7 +57,7 @@ The objective of this game is to keep a bird flying through pipes by tapping the
 
 - **Activation Function**: `TanH`
   
-![Flappy Input](images/flappy_input)
+![Flappy Input](images/flappy_input.png)
 
 ### NEAT Configuration for Snake 🐍
 
@@ -77,7 +77,7 @@ The objective of this game is to keep a bird flying through pipes by tapping the
 
 - **Activation Function**: `Sigmoid`
   
-![Snake Input](images/snake_input)
+![Snake Input](images/snake_input.png)
 
   
 <br>
@@ -87,12 +87,12 @@ The objective of this game is to keep a bird flying through pipes by tapping the
 
 **Snake**: After several generations, the AI learns to avoid collisions and efficiently collect food.
   
-![Snake Results](images/snake_score)
+![Snake Results](images/snake_score.png)
 
   
 **Flappy Bird**: The AI masters the timing needed to navigate between pipes and survive longer.
   
-![Flappy Bird Results](images/flappy_score)
+![Flappy Bird Results](images/flappy_score.png)
 
 <br>
 
