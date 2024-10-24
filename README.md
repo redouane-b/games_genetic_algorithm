@@ -99,6 +99,9 @@ The objective of this game is to keep a bird flying through pipes by tapping the
 ### Results in Action:
 
 ![Snake AI Demo](images/snake_demo.gif)
+
+<br>
+
 ![Flappy Bird AI Demo](images/flappy_demo.gif)
 
 ---
